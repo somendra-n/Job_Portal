@@ -30,5 +30,3 @@ The **FSWD Job Portal** is a full-stack web application designed to bridge the g
 
 ---
 
-## 📂 Project Structure
-
